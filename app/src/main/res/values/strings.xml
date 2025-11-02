@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quiz Applications</string>
+
+    <!-- Add these two lines -->
+    <string name="result_trophy_image">Result trophy image</string>
+    <string name="replay_quiz">Replay Quiz</string>
 </resources>
